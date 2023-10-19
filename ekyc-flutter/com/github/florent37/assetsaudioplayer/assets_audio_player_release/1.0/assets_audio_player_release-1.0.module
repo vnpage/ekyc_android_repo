@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.florent37.assetsaudioplayer",
+    "module": "assets_audio_player_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b20183e04096094bcc37d9cde2a4b96f5cc684cf"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "assets_audio_player_release-1.0.aar",
+          "url": "assets_audio_player_release-1.0.aar",
+          "size": 191949,
+          "sha512": "e5072a5c9fefc2876383990686a99a87e715c53ae969cedd224503b4ba7dd683822e87a5ba56a5e2b79aad1d37ab80cec76a125b35f70250383d1e95f8328fc8",
+          "sha256": "9ad372afc7c81cba3d869177ff3b5dcc4f186825ac7d85f650cd31b1c93be5d4",
+          "sha1": "e779b0cf65ac161b529096f3b754a81b4c1567ed",
+          "md5": "dfdf22b0981adc578d8538ac1dd2cee6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b20183e04096094bcc37d9cde2a4b96f5cc684cf"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "multidex",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-hls",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-dash",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-smoothstreaming",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.13.0"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "assets_audio_player_release-1.0.aar",
+          "url": "assets_audio_player_release-1.0.aar",
+          "size": 191949,
+          "sha512": "e5072a5c9fefc2876383990686a99a87e715c53ae969cedd224503b4ba7dd683822e87a5ba56a5e2b79aad1d37ab80cec76a125b35f70250383d1e95f8328fc8",
+          "sha256": "9ad372afc7c81cba3d869177ff3b5dcc4f186825ac7d85f650cd31b1c93be5d4",
+          "sha1": "e779b0cf65ac161b529096f3b754a81b4c1567ed",
+          "md5": "dfdf22b0981adc578d8538ac1dd2cee6"
+        }
+      ]
+    }
+  ]
+}
