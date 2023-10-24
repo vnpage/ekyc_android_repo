@@ -73,12 +73,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.florent37.assetsaudioplayer</groupId>
-      <artifactId>assets_audio_player_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.linkid.flutter_linkid_digitalfootprint</groupId>
       <artifactId>flutter_linkid_digitalfootprint_release</artifactId>
       <version>1.0</version>
