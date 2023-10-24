@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tfliteflutter.tflite_flutter_plugin",
+    "module": "tflite_flutter_profile",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "profileVariantProfileApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b20183e04096094bcc37d9cde2a4b96f5cc684cf"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_profile-1.0.aar",
+          "url": "tflite_flutter_profile-1.0.aar",
+          "size": 4379,
+          "sha512": "e0fbfd4f3cd7a730e81c9db1c3a448c192154515efca49b64ba5b87211ecac97fc2f3dfe2fa5b88428334666497f7e74a8a987c5282f1adffbee5c8fc06f5b3c",
+          "sha256": "8f2144b738c3c2384c05b5d7b5c800de2954c956dbb74e2bb8fe5282a37b661e",
+          "sha1": "199fe5a8d6ce7c0968eba828868a0cc1bbc60a8d",
+          "md5": "7de26c00613ca108d90e39d9dd79bb8b"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b20183e04096094bcc37d9cde2a4b96f5cc684cf"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_profile-1.0.aar",
+          "url": "tflite_flutter_profile-1.0.aar",
+          "size": 4379,
+          "sha512": "e0fbfd4f3cd7a730e81c9db1c3a448c192154515efca49b64ba5b87211ecac97fc2f3dfe2fa5b88428334666497f7e74a8a987c5282f1adffbee5c8fc06f5b3c",
+          "sha256": "8f2144b738c3c2384c05b5d7b5c800de2954c956dbb74e2bb8fe5282a37b661e",
+          "sha1": "199fe5a8d6ce7c0968eba828868a0cc1bbc60a8d",
+          "md5": "7de26c00613ca108d90e39d9dd79bb8b"
+        }
+      ]
+    }
+  ]
+}
