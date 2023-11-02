@@ -21,7 +21,7 @@
     <dependency>
       <groupId>com.linkid.digitalfootprint</groupId>
       <artifactId>linkid-digitalfootprint</artifactId>
-      <version>1.0.8</version>
+      <version>1.0.10</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

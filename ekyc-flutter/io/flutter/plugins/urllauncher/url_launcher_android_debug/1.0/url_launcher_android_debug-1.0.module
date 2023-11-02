@@ -35,11 +35,11 @@
         {
           "name": "url_launcher_android_debug-1.0.aar",
           "url": "url_launcher_android_debug-1.0.aar",
-          "size": 22065,
-          "sha512": "3acb1a1669916a7d0f332baf928219d6f89bfdd8241f7f29668e0c1d98dbdc7074b10e2342eafb236329dbeedde4f45f8046e417747dc3a5cf994c35e88905f1",
-          "sha256": "1abf7165d1573b839dd6a18c6c770a33b2c6f47481221c569fd1c7deba8623f2",
-          "sha1": "6e831f5154ace20e664b3380c069cedb16da0172",
-          "md5": "4f1eec0197db44e6baf0027964365691"
+          "size": 22587,
+          "sha512": "e4cca492bf8293f1f0dfbd1e14cad57fa77ecb8db929be01c8eb97461eac9a8a404fc839ed67dcd65c8c319c80b8f1846e8b206d906c1a340a527a06816ded67",
+          "sha256": "2441d4b7941087a810ceb23751a1a7fa8a6ac3db0486b3676e81e6a2ef9f28e6",
+          "sha1": "f1c0f9d6e71693fbded0c73c3b2e8681c1595526",
+          "md5": "7562cb50f598d4d86879764ef34c1987"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "androidx.annotation",
           "module": "annotation",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.7.0"
           }
         },
         {
@@ -96,11 +96,11 @@
         {
           "name": "url_launcher_android_debug-1.0.aar",
           "url": "url_launcher_android_debug-1.0.aar",
-          "size": 22065,
-          "sha512": "3acb1a1669916a7d0f332baf928219d6f89bfdd8241f7f29668e0c1d98dbdc7074b10e2342eafb236329dbeedde4f45f8046e417747dc3a5cf994c35e88905f1",
-          "sha256": "1abf7165d1573b839dd6a18c6c770a33b2c6f47481221c569fd1c7deba8623f2",
-          "sha1": "6e831f5154ace20e664b3380c069cedb16da0172",
-          "md5": "4f1eec0197db44e6baf0027964365691"
+          "size": 22587,
+          "sha512": "e4cca492bf8293f1f0dfbd1e14cad57fa77ecb8db929be01c8eb97461eac9a8a404fc839ed67dcd65c8c319c80b8f1846e8b206d906c1a340a527a06816ded67",
+          "sha256": "2441d4b7941087a810ceb23751a1a7fa8a6ac3db0486b3676e81e6a2ef9f28e6",
+          "sha1": "f1c0f9d6e71693fbded0c73c3b2e8681c1595526",
+          "md5": "7562cb50f598d4d86879764ef34c1987"
         }
       ]
     }

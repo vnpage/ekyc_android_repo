@@ -35,11 +35,11 @@
         {
           "name": "flutter_linkid_digitalfootprint_profile-1.0.aar",
           "url": "flutter_linkid_digitalfootprint_profile-1.0.aar",
-          "size": 5540,
-          "sha512": "95a204e5df105de70827cf76970633a706c950edbee4bb0b89b00950c84242b8b79253bfc90408865892b587f5f7279c117e79d1d91a004d9de918530efb3afb",
-          "sha256": "2b6e62503f61303411f226dfa1cefb5081d8bf45acaec6d1974537eb714b780b",
-          "sha1": "26091840526ad4abd9081479fa6b6f7bffd9f588",
-          "md5": "a56e09317f3c004c40449a4d6bdf91da"
+          "size": 5626,
+          "sha512": "344a60e2c819ee4e2d260937253fcb7bfebc02e8671335c25332efd880ddd58d657d34302c625e3385407236b9f25c78c4439d614cfe0c38208e47f1b9952b64",
+          "sha256": "25a00d0f59bda2cfff0a932bd211656aef660b9f254785d14a929410c7069bce",
+          "sha1": "ace1c8fa26d0b1c94dfa6b4a88ebcaed17642645",
+          "md5": "4427c89c755e8e1703f2859978245ee6"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "com.linkid.digitalfootprint",
           "module": "linkid-digitalfootprint",
           "version": {
-            "requires": "1.0.8"
+            "requires": "1.0.10"
           }
         },
         {
@@ -78,11 +78,11 @@
         {
           "name": "flutter_linkid_digitalfootprint_profile-1.0.aar",
           "url": "flutter_linkid_digitalfootprint_profile-1.0.aar",
-          "size": 5540,
-          "sha512": "95a204e5df105de70827cf76970633a706c950edbee4bb0b89b00950c84242b8b79253bfc90408865892b587f5f7279c117e79d1d91a004d9de918530efb3afb",
-          "sha256": "2b6e62503f61303411f226dfa1cefb5081d8bf45acaec6d1974537eb714b780b",
-          "sha1": "26091840526ad4abd9081479fa6b6f7bffd9f588",
-          "md5": "a56e09317f3c004c40449a4d6bdf91da"
+          "size": 5626,
+          "sha512": "344a60e2c819ee4e2d260937253fcb7bfebc02e8671335c25332efd880ddd58d657d34302c625e3385407236b9f25c78c4439d614cfe0c38208e47f1b9952b64",
+          "sha256": "25a00d0f59bda2cfff0a932bd211656aef660b9f254785d14a929410c7069bce",
+          "sha1": "ace1c8fa26d0b1c94dfa6b4a88ebcaed17642645",
+          "md5": "4427c89c755e8e1703f2859978245ee6"
         }
       ]
     }
