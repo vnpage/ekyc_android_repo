@@ -49,6 +49,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>xyz.luan.audioplayers</groupId>
+      <artifactId>audioplayers_android_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.flutter.plugins.camera</groupId>
       <artifactId>camera_android_release</artifactId>
       <version>1.0</version>
