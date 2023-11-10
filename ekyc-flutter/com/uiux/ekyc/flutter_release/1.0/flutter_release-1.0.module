@@ -52,13 +52,6 @@
           }
         },
         {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
           "module": "flutter_plugin_android_lifecycle_release",
           "version": {
@@ -68,13 +61,6 @@
         {
           "group": "xyz.luan.audioplayers",
           "module": "audioplayers_android_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -101,6 +87,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camera",
+          "module": "camera_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.linkid.flutter_linkid_digitalfootprint",
           "module": "flutter_linkid_digitalfootprint_release",
           "version": {
@@ -110,13 +124,6 @@
         {
           "group": "com.juicy.juicy_score_flutter",
           "module": "juicy_score_flutter_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -133,11 +140,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 20083955,
-          "sha512": "7be577dbac73eae01d0c28c3b5dfe111a98ef21e1eb5fce9852ff06bb41fba38c34bf74878a217443f20a7ece29ffbc43ec38a659301a7d413aaf63893980a67",
-          "sha256": "543fb90dd2df49dbfd149402b31f9ad3b2574b2b961f950eb36e924d3677e667",
-          "sha1": "1fadbbecbaa9eaee980273af1e04725505ad3ffd",
-          "md5": "eb29fdfd3f7ff81f157379200abe6155"
+          "size": 20178215,
+          "sha512": "e429ad4172b8fffaea74f3c300be4ac3478cea99df86bd13da5d4c9fb15e6324079eee5b699cc2fe94fd4945aa29b4a0ca861ef83c33360383a9a89a3f3b1eb3",
+          "sha256": "6e011134ba64665061471b58682b5cd0c30e616985dffeb9bd3b32ec44255286",
+          "sha1": "a4c24b91aebb914c9b656db917262f2004be5439",
+          "md5": "0864a7a0fe75f2e1617a8f601e60dc11"
         }
       ]
     },
@@ -179,13 +186,6 @@
           }
         },
         {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
           "module": "flutter_plugin_android_lifecycle_release",
           "version": {
@@ -195,13 +195,6 @@
         {
           "group": "xyz.luan.audioplayers",
           "module": "audioplayers_android_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -228,6 +221,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camera",
+          "module": "camera_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.linkid.flutter_linkid_digitalfootprint",
           "module": "flutter_linkid_digitalfootprint_release",
           "version": {
@@ -237,13 +258,6 @@
         {
           "group": "com.juicy.juicy_score_flutter",
           "module": "juicy_score_flutter_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -260,11 +274,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 20083955,
-          "sha512": "7be577dbac73eae01d0c28c3b5dfe111a98ef21e1eb5fce9852ff06bb41fba38c34bf74878a217443f20a7ece29ffbc43ec38a659301a7d413aaf63893980a67",
-          "sha256": "543fb90dd2df49dbfd149402b31f9ad3b2574b2b961f950eb36e924d3677e667",
-          "sha1": "1fadbbecbaa9eaee980273af1e04725505ad3ffd",
-          "md5": "eb29fdfd3f7ff81f157379200abe6155"
+          "size": 20178215,
+          "sha512": "e429ad4172b8fffaea74f3c300be4ac3478cea99df86bd13da5d4c9fb15e6324079eee5b699cc2fe94fd4945aa29b4a0ca861ef83c33360383a9a89a3f3b1eb3",
+          "sha256": "6e011134ba64665061471b58682b5cd0c30e616985dffeb9bd3b32ec44255286",
+          "sha1": "a4c24b91aebb914c9b656db917262f2004be5439",
+          "md5": "0864a7a0fe75f2e1617a8f601e60dc11"
         }
       ]
     }

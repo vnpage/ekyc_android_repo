@@ -59,13 +59,6 @@
           }
         },
         {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
           "module": "flutter_plugin_android_lifecycle_debug",
           "version": {
@@ -75,13 +68,6 @@
         {
           "group": "xyz.luan.audioplayers",
           "module": "audioplayers_android_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -108,6 +94,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camera",
+          "module": "camera_android_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.linkid.flutter_linkid_digitalfootprint",
           "module": "flutter_linkid_digitalfootprint_debug",
           "version": {
@@ -117,13 +131,6 @@
         {
           "group": "com.juicy.juicy_score_flutter",
           "module": "juicy_score_flutter_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -140,11 +147,11 @@
         {
           "name": "flutter_debug-1.0.aar",
           "url": "flutter_debug-1.0.aar",
-          "size": 29602031,
-          "sha512": "05a7bb93f886797084cba467cfecab40b0a6c8de74c117cf858b870443897fb3441740059325bce193709c0848d5e15a0badf5d5c859cc6077ac71f806865424",
-          "sha256": "baa5d71f534b170ff551e70f679a386447b8a6844820a8a16f4d6fa9cc996241",
-          "sha1": "ba0a2872b68c7df04f6fec28ce5d9d3572760600",
-          "md5": "44e38fbb24d23b2da063b91053395f83"
+          "size": 29681927,
+          "sha512": "2cf7a67f432afebef22808b5761cd8ef7a5771450e0f1e6ae7fb1f57a6f8bbec33b2bad0397a2a4cf6331fb21bfcd41d2b08e6badc43d49bfc6e50087c44a22c",
+          "sha256": "608af4d78a472f00b839cc1a80e0143c2bba6b3e5c0cdb7cc26797de8da843ff",
+          "sha1": "3050ecb7cc84e493884f8ffaa22d14c9ddc7addb",
+          "md5": "3088aa1bdc327422a1dd1ae699a438eb"
         }
       ]
     },
@@ -193,13 +200,6 @@
           }
         },
         {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
           "module": "flutter_plugin_android_lifecycle_debug",
           "version": {
@@ -209,13 +209,6 @@
         {
           "group": "xyz.luan.audioplayers",
           "module": "audioplayers_android_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -242,6 +235,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camera",
+          "module": "camera_android_debug",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.linkid.flutter_linkid_digitalfootprint",
           "module": "flutter_linkid_digitalfootprint_debug",
           "version": {
@@ -251,13 +272,6 @@
         {
           "group": "com.juicy.juicy_score_flutter",
           "module": "juicy_score_flutter_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -274,11 +288,11 @@
         {
           "name": "flutter_debug-1.0.aar",
           "url": "flutter_debug-1.0.aar",
-          "size": 29602031,
-          "sha512": "05a7bb93f886797084cba467cfecab40b0a6c8de74c117cf858b870443897fb3441740059325bce193709c0848d5e15a0badf5d5c859cc6077ac71f806865424",
-          "sha256": "baa5d71f534b170ff551e70f679a386447b8a6844820a8a16f4d6fa9cc996241",
-          "sha1": "ba0a2872b68c7df04f6fec28ce5d9d3572760600",
-          "md5": "44e38fbb24d23b2da063b91053395f83"
+          "size": 29681927,
+          "sha512": "2cf7a67f432afebef22808b5761cd8ef7a5771450e0f1e6ae7fb1f57a6f8bbec33b2bad0397a2a4cf6331fb21bfcd41d2b08e6badc43d49bfc6e50087c44a22c",
+          "sha256": "608af4d78a472f00b839cc1a80e0143c2bba6b3e5c0cdb7cc26797de8da843ff",
+          "sha1": "3050ecb7cc84e493884f8ffaa22d14c9ddc7addb",
+          "md5": "3088aa1bdc327422a1dd1ae699a438eb"
         }
       ]
     }
