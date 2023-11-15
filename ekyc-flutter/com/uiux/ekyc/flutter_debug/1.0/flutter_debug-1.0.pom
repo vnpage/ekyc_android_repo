@@ -43,6 +43,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.trustingsocial.trust_vision_plugin</groupId>
+      <artifactId>trust_vision_plugin_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
       <artifactId>flutter_plugin_android_lifecycle_debug</artifactId>
       <version>1.0</version>
@@ -51,6 +57,12 @@
     <dependency>
       <groupId>xyz.luan.audioplayers</groupId>
       <artifactId>audioplayers_android_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.flutter.plugins.camera</groupId>
+      <artifactId>camera_android_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>
@@ -73,30 +85,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.webviewflutter</groupId>
-      <artifactId>webview_flutter_android_debug</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.trustingsocial.trust_vision_plugin</groupId>
-      <artifactId>trust_vision_plugin_debug</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>dev.fluttercommunity.plus.share</groupId>
-      <artifactId>share_plus_debug</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.camera</groupId>
-      <artifactId>camera_android_debug</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.linkid.flutter_linkid_digitalfootprint</groupId>
       <artifactId>flutter_linkid_digitalfootprint_debug</artifactId>
       <version>1.0</version>
@@ -105,6 +93,12 @@
     <dependency>
       <groupId>com.juicy.juicy_score_flutter</groupId>
       <artifactId>juicy_score_flutter_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.flutter.plugins.webviewflutter</groupId>
+      <artifactId>webview_flutter_android_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

@@ -35,11 +35,11 @@
         {
           "name": "trust_vision_plugin_debug-1.0.aar",
           "url": "trust_vision_plugin_debug-1.0.aar",
-          "size": 76208,
-          "sha512": "0f0c94b29824075b16bc2cec09531182031316bb299d2c4609030de768f1867aa1676e274897de2d73f25d3b72d671f1b07470b837fa6df963075457c150076d",
-          "sha256": "355116d1a611440ebd292104ae543538128ed5361b4386ccee06b443f52f1caf",
-          "sha1": "339c2b5775ef5d224a14478b03aabc3f059bc320",
-          "md5": "af40fbea66b3e8029601ab7ee0705297"
+          "size": 76234,
+          "sha512": "196869eb9dc152328ba2998f2dba0efac9e9c9ab4549009126a849658a7fc827a453becbc3115a2ee6eba50ef756828480e0ae6f603baa4ab504f81cbffb3119",
+          "sha256": "fb1ee64ede45e5c00964cac07c13c34755fc1e08dc7ba7b0e4e1a7d134e12143",
+          "sha1": "2b5e64acaf80078ec2402d61ea20c733309bfb22",
+          "md5": "2fd92e099ee13a850e703e6f5dec2bfb"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "com.trustvision",
           "module": "tv_sdk",
           "version": {
-            "requires": "3.1.2.0"
+            "requires": "3.1.3.1"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -85,11 +85,11 @@
         {
           "name": "trust_vision_plugin_debug-1.0.aar",
           "url": "trust_vision_plugin_debug-1.0.aar",
-          "size": 76208,
-          "sha512": "0f0c94b29824075b16bc2cec09531182031316bb299d2c4609030de768f1867aa1676e274897de2d73f25d3b72d671f1b07470b837fa6df963075457c150076d",
-          "sha256": "355116d1a611440ebd292104ae543538128ed5361b4386ccee06b443f52f1caf",
-          "sha1": "339c2b5775ef5d224a14478b03aabc3f059bc320",
-          "md5": "af40fbea66b3e8029601ab7ee0705297"
+          "size": 76234,
+          "sha512": "196869eb9dc152328ba2998f2dba0efac9e9c9ab4549009126a849658a7fc827a453becbc3115a2ee6eba50ef756828480e0ae6f603baa4ab504f81cbffb3119",
+          "sha256": "fb1ee64ede45e5c00964cac07c13c34755fc1e08dc7ba7b0e4e1a7d134e12143",
+          "sha1": "2b5e64acaf80078ec2402d61ea20c733309bfb22",
+          "md5": "2fd92e099ee13a850e703e6f5dec2bfb"
         }
       ]
     }

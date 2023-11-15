@@ -35,11 +35,11 @@
         {
           "name": "audioplayers_android_debug-1.0.aar",
           "url": "audioplayers_android_debug-1.0.aar",
-          "size": 61899,
-          "sha512": "1ff69f844805244d9bcea6ce15de72b2a9bec2a72684276e314fa7d08f6c390076c7e8f8ee405b98185ced59721580da5eef70ef3de5ef94764fd2870b713e27",
-          "sha256": "2984e30c003010aec6bb5fec20f143a85c2867d0fb95c65b0237c348e667c2a1",
-          "sha1": "827a84b30d5aa7a6c522e263f7e926192702af9c",
-          "md5": "307f533507897943a4166eb5fc794df5"
+          "size": 61896,
+          "sha512": "874a3a96d21b01dc59ce30501e522996d3d009d20bf38ac68fca4e07ac41b92d7db7fb9bcdbe23708aba53eca7fcb71514fc833aaf139d0bea5e89d44f78e518",
+          "sha256": "5d5cf43479084d582c537838c61cca638734f480cb30916956e34ab4b6f5e292",
+          "sha1": "33d8d43c26ba42f5ba53b21e677ca3919e75c922",
+          "md5": "c480eb2bcf2838625016683717e4b34d"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "audioplayers_android_debug-1.0.aar",
           "url": "audioplayers_android_debug-1.0.aar",
-          "size": 61899,
-          "sha512": "1ff69f844805244d9bcea6ce15de72b2a9bec2a72684276e314fa7d08f6c390076c7e8f8ee405b98185ced59721580da5eef70ef3de5ef94764fd2870b713e27",
-          "sha256": "2984e30c003010aec6bb5fec20f143a85c2867d0fb95c65b0237c348e667c2a1",
-          "sha1": "827a84b30d5aa7a6c522e263f7e926192702af9c",
-          "md5": "307f533507897943a4166eb5fc794df5"
+          "size": 61896,
+          "sha512": "874a3a96d21b01dc59ce30501e522996d3d009d20bf38ac68fca4e07ac41b92d7db7fb9bcdbe23708aba53eca7fcb71514fc833aaf139d0bea5e89d44f78e518",
+          "sha256": "5d5cf43479084d582c537838c61cca638734f480cb30916956e34ab4b6f5e292",
+          "sha1": "33d8d43c26ba42f5ba53b21e677ca3919e75c922",
+          "md5": "c480eb2bcf2838625016683717e4b34d"
         }
       ]
     }

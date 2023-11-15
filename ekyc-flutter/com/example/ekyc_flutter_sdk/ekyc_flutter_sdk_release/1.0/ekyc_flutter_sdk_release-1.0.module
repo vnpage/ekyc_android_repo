@@ -35,11 +35,11 @@
         {
           "name": "ekyc_flutter_sdk_release-1.0.aar",
           "url": "ekyc_flutter_sdk_release-1.0.aar",
-          "size": 8140730,
-          "sha512": "84bd61ea90ca17a5a638bc1c10ba89b43aa72edd8eaff542585bf0f323668a18c1d86638e9f4145e92af482bbfaa73545a95dd5b68eaee0246cdfcc6dde9b1f0",
-          "sha256": "8c9252932d6b3f1d2450f1c6b640b628e92f62793c2f558cd5ffda07fb8fbe57",
-          "sha1": "6f0af2b1061c65b866def61742e93b68171e3741",
-          "md5": "397ad406f478f23e58e4fc7e2977aad7"
+          "size": 8140728,
+          "sha512": "575e45d9b881a65d887955af853f3e69bc542b5b051e6c4b27ea62d32b4e4011078726ee30697cc7e42dcf274983a34682d2a81f30b0fa157c548a0edf80fe08",
+          "sha256": "15e1967fd15886cebf171fa934e3d139e0ff90a943c06a588deebf8aa9b1cda3",
+          "sha1": "ed9a71765e6d609414d66417d044db09179c6907",
+          "md5": "0a7d51c25d26fd5f0a5cfffb4c11211a"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "ekyc_flutter_sdk_release-1.0.aar",
           "url": "ekyc_flutter_sdk_release-1.0.aar",
-          "size": 8140730,
-          "sha512": "84bd61ea90ca17a5a638bc1c10ba89b43aa72edd8eaff542585bf0f323668a18c1d86638e9f4145e92af482bbfaa73545a95dd5b68eaee0246cdfcc6dde9b1f0",
-          "sha256": "8c9252932d6b3f1d2450f1c6b640b628e92f62793c2f558cd5ffda07fb8fbe57",
-          "sha1": "6f0af2b1061c65b866def61742e93b68171e3741",
-          "md5": "397ad406f478f23e58e4fc7e2977aad7"
+          "size": 8140728,
+          "sha512": "575e45d9b881a65d887955af853f3e69bc542b5b051e6c4b27ea62d32b4e4011078726ee30697cc7e42dcf274983a34682d2a81f30b0fa157c548a0edf80fe08",
+          "sha256": "15e1967fd15886cebf171fa934e3d139e0ff90a943c06a588deebf8aa9b1cda3",
+          "sha1": "ed9a71765e6d609414d66417d044db09179c6907",
+          "md5": "0a7d51c25d26fd5f0a5cfffb4c11211a"
         }
       ]
     }
