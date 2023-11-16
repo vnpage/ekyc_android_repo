@@ -35,11 +35,11 @@
         {
           "name": "trust_vision_plugin_debug-1.0.aar",
           "url": "trust_vision_plugin_debug-1.0.aar",
-          "size": 76234,
-          "sha512": "196869eb9dc152328ba2998f2dba0efac9e9c9ab4549009126a849658a7fc827a453becbc3115a2ee6eba50ef756828480e0ae6f603baa4ab504f81cbffb3119",
-          "sha256": "fb1ee64ede45e5c00964cac07c13c34755fc1e08dc7ba7b0e4e1a7d134e12143",
-          "sha1": "2b5e64acaf80078ec2402d61ea20c733309bfb22",
-          "md5": "2fd92e099ee13a850e703e6f5dec2bfb"
+          "size": 76222,
+          "sha512": "cdc4af5b6315b32e4c15a30bcf5a3a2e06511503897ff0e4c87eb7a550f7bd0904edef31a739735fb80377db7482a16024f6aa3be221a7f4a24535e31e998bac",
+          "sha256": "eef7e893e7f71597396aa32e6522a5339d8dd477f77910a84b823b562d9b1d21",
+          "sha1": "880cf3ef912503f3a730c6818d90b93f1c1b8032",
+          "md5": "4e1aa29a35803b6b6c75e606c56d1b63"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "trust_vision_plugin_debug-1.0.aar",
           "url": "trust_vision_plugin_debug-1.0.aar",
-          "size": 76234,
-          "sha512": "196869eb9dc152328ba2998f2dba0efac9e9c9ab4549009126a849658a7fc827a453becbc3115a2ee6eba50ef756828480e0ae6f603baa4ab504f81cbffb3119",
-          "sha256": "fb1ee64ede45e5c00964cac07c13c34755fc1e08dc7ba7b0e4e1a7d134e12143",
-          "sha1": "2b5e64acaf80078ec2402d61ea20c733309bfb22",
-          "md5": "2fd92e099ee13a850e703e6f5dec2bfb"
+          "size": 76222,
+          "sha512": "cdc4af5b6315b32e4c15a30bcf5a3a2e06511503897ff0e4c87eb7a550f7bd0904edef31a739735fb80377db7482a16024f6aa3be221a7f4a24535e31e998bac",
+          "sha256": "eef7e893e7f71597396aa32e6522a5339d8dd477f77910a84b823b562d9b1d21",
+          "sha1": "880cf3ef912503f3a730c6818d90b93f1c1b8032",
+          "md5": "4e1aa29a35803b6b6c75e606c56d1b63"
         }
       ]
     }
