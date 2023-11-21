@@ -3,11 +3,11 @@
   <groupId>com.trustvision</groupId>
   <artifactId>tv_sdk</artifactId>
   <versioning>
-    <latest>3.1.2.0</latest>
-    <release>3.1.2.0</release>
+    <latest>3.1.3.1</latest>
+    <release>3.1.3.1</release>
     <versions>
-      <version>3.1.2.0</version>
+      <version>3.1.3.1</version>
     </versions>
-    <lastUpdated>20230831020207</lastUpdated>
+    <lastUpdated>20231121081441</lastUpdated>
   </versioning>
 </metadata>
