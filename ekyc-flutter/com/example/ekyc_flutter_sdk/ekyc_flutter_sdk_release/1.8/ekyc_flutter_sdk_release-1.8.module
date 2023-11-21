@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.ekyc_flutter_sdk",
+    "module": "ekyc_flutter_sdk_release",
+    "version": "1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-a794cf2681c6c9fe7b260e0e84de96298dc9c18b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_release-1.8.aar",
+          "url": "ekyc_flutter_sdk_release-1.8.aar",
+          "size": 8140747,
+          "sha512": "cf5e4362bac6fd0a9e6665ec110aceb8685e08c610489dea277edb94bb1378afb00c98090e6eb31e082095f7a66a9f78b9b529cbe623fbd1427d0b56fc3f89c5",
+          "sha256": "eae41ced90253ed360aa6de95f45faea67df16e2fc542390e79422deb3f59803",
+          "sha1": "0bab83716f7d9349e8a000545b248d6b67b2476c",
+          "md5": "c7248eb9e618929deca5fa224495e060"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-a794cf2681c6c9fe7b260e0e84de96298dc9c18b"
+          }
+        },
+        {
+          "group": "com.tfliteflutter.tflite_flutter_plugin",
+          "module": "tflite_flutter_release",
+          "version": {
+            "requires": "1.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_release-1.8.aar",
+          "url": "ekyc_flutter_sdk_release-1.8.aar",
+          "size": 8140747,
+          "sha512": "cf5e4362bac6fd0a9e6665ec110aceb8685e08c610489dea277edb94bb1378afb00c98090e6eb31e082095f7a66a9f78b9b529cbe623fbd1427d0b56fc3f89c5",
+          "sha256": "eae41ced90253ed360aa6de95f45faea67df16e2fc542390e79422deb3f59803",
+          "sha1": "0bab83716f7d9349e8a000545b248d6b67b2476c",
+          "md5": "c7248eb9e618929deca5fa224495e060"
+        }
+      ]
+    }
+  ]
+}
