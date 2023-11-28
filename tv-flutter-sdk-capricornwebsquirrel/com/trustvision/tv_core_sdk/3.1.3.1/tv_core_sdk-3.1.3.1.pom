@@ -57,13 +57,13 @@
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
-      <version>1.6.0</version>
+      <version>1.9.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
-      <version>3.8.0</version>
+      <version>4.9.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -136,12 +136,6 @@
       <groupId>com.github.lzyzsd</groupId>
       <artifactId>circleprogress</artifactId>
       <version>1.2.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.play</groupId>
-      <artifactId>core</artifactId>
-      <version>1.10.3</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
