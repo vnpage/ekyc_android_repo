@@ -35,11 +35,11 @@
         {
           "name": "trust_vision_plugin_debug-1.9.1.aar",
           "url": "trust_vision_plugin_debug-1.9.1.aar",
-          "size": 76222,
-          "sha512": "cdc4af5b6315b32e4c15a30bcf5a3a2e06511503897ff0e4c87eb7a550f7bd0904edef31a739735fb80377db7482a16024f6aa3be221a7f4a24535e31e998bac",
-          "sha256": "eef7e893e7f71597396aa32e6522a5339d8dd477f77910a84b823b562d9b1d21",
-          "sha1": "880cf3ef912503f3a730c6818d90b93f1c1b8032",
-          "md5": "4e1aa29a35803b6b6c75e606c56d1b63"
+          "size": 72498,
+          "sha512": "f085f32cd7cfdb1874a55cf2e1ce554b660be166c5034f746259aff9d6862687e16009f6813e0503cd8185106a3305608d5bb26031f0d2f31a3bbaf7e90a74a0",
+          "sha256": "e6e0eea25dbf22b0bab94b696b2cfd4f08a14199a08e5523af1e5599af98de63",
+          "sha1": "e49cffd9fe56f43015733648e4c96dc6c533d582",
+          "md5": "587e2ee4f45ddd61a73fbc8d129301dd"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "trust_vision_plugin_debug-1.9.1.aar",
           "url": "trust_vision_plugin_debug-1.9.1.aar",
-          "size": 76222,
-          "sha512": "cdc4af5b6315b32e4c15a30bcf5a3a2e06511503897ff0e4c87eb7a550f7bd0904edef31a739735fb80377db7482a16024f6aa3be221a7f4a24535e31e998bac",
-          "sha256": "eef7e893e7f71597396aa32e6522a5339d8dd477f77910a84b823b562d9b1d21",
-          "sha1": "880cf3ef912503f3a730c6818d90b93f1c1b8032",
-          "md5": "4e1aa29a35803b6b6c75e606c56d1b63"
+          "size": 72498,
+          "sha512": "f085f32cd7cfdb1874a55cf2e1ce554b660be166c5034f746259aff9d6862687e16009f6813e0503cd8185106a3305608d5bb26031f0d2f31a3bbaf7e90a74a0",
+          "sha256": "e6e0eea25dbf22b0bab94b696b2cfd4f08a14199a08e5523af1e5599af98de63",
+          "sha1": "e49cffd9fe56f43015733648e4c96dc6c533d582",
+          "md5": "587e2ee4f45ddd61a73fbc8d129301dd"
         }
       ]
     }

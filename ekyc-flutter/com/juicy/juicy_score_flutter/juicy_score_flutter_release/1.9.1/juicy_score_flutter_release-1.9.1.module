@@ -35,11 +35,11 @@
         {
           "name": "juicy_score_flutter_release-1.9.1.aar",
           "url": "juicy_score_flutter_release-1.9.1.aar",
-          "size": 8656,
-          "sha512": "9dec9a1a98eecddf8f2068df4ff33548bb7b1a13d55c8aee7e350fe5583388154ea3d1cc06902c5bbb4dda06363dc7aed1df45be059ea3f6d25e80d0fcb8f7e0",
-          "sha256": "f4dc4f16fe0f2403bf8fe30e2f71dc9d77477c22c193cdf6bdb16582eb17bc43",
-          "sha1": "2c0c2b5a003299a809a2dec1c9068f3c58f31a9e",
-          "md5": "1fda86fba05aaad74a7456bde8c39942"
+          "size": 8810,
+          "sha512": "e97ae520756cebe88d274853fee332d58059630e2b8b063d003c0ce47ec9b6aa466cf38cba23c19ffdf61dc8c1635014f41a758ca769a900214dbfe3fa03e9d6",
+          "sha256": "51dbe77f979218d0f2b11cbc4bbbfcc975620fb6c5a0dce0b560f4ab0515162b",
+          "sha1": "296d44c30032ea8838f5dfbe0cdeb4d2b130034e",
+          "md5": "830a75e14f9113a4d17bf6b67f66ec1d"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "juicy_score_flutter_release-1.9.1.aar",
           "url": "juicy_score_flutter_release-1.9.1.aar",
-          "size": 8656,
-          "sha512": "9dec9a1a98eecddf8f2068df4ff33548bb7b1a13d55c8aee7e350fe5583388154ea3d1cc06902c5bbb4dda06363dc7aed1df45be059ea3f6d25e80d0fcb8f7e0",
-          "sha256": "f4dc4f16fe0f2403bf8fe30e2f71dc9d77477c22c193cdf6bdb16582eb17bc43",
-          "sha1": "2c0c2b5a003299a809a2dec1c9068f3c58f31a9e",
-          "md5": "1fda86fba05aaad74a7456bde8c39942"
+          "size": 8810,
+          "sha512": "e97ae520756cebe88d274853fee332d58059630e2b8b063d003c0ce47ec9b6aa466cf38cba23c19ffdf61dc8c1635014f41a758ca769a900214dbfe3fa03e9d6",
+          "sha256": "51dbe77f979218d0f2b11cbc4bbbfcc975620fb6c5a0dce0b560f4ab0515162b",
+          "sha1": "296d44c30032ea8838f5dfbe0cdeb4d2b130034e",
+          "md5": "830a75e14f9113a4d17bf6b67f66ec1d"
         }
       ]
     }
