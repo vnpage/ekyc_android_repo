@@ -39,7 +39,13 @@
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
-      <version>1.9.0</version>
+      <version>1.6.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.android.play</groupId>
+      <artifactId>core</artifactId>
+      <version>1.10.3</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
