@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tfliteflutter.tflite_flutter_plugin",
+    "module": "tflite_flutter_release",
+    "version": "release_28_oct_2023_v4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_release-release_28_oct_2023_v4.aar",
+          "url": "tflite_flutter_release-release_28_oct_2023_v4.aar",
+          "size": 4308,
+          "sha512": "a2d5881a83cbc5afa8179a69dd08f5889cd8e4caa213aae17cde38cef117a9837e54fd1acb2b95460d06f8619344e627b8c10587a6086fd39f5b969c5773c841",
+          "sha256": "dacb5547cc15cc374d233da9123215afa12e1d2b34f85eb187b32abbba78081e",
+          "sha1": "9e236d0ad0780583b885fe759de641ccee353fca",
+          "md5": "57f9a1b51cc44a648a27bf74ed2483a4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_release-release_28_oct_2023_v4.aar",
+          "url": "tflite_flutter_release-release_28_oct_2023_v4.aar",
+          "size": 4308,
+          "sha512": "a2d5881a83cbc5afa8179a69dd08f5889cd8e4caa213aae17cde38cef117a9837e54fd1acb2b95460d06f8619344e627b8c10587a6086fd39f5b969c5773c841",
+          "sha256": "dacb5547cc15cc374d233da9123215afa12e1d2b34f85eb187b32abbba78081e",
+          "sha1": "9e236d0ad0780583b885fe759de641ccee353fca",
+          "md5": "57f9a1b51cc44a648a27bf74ed2483a4"
+        }
+      ]
+    }
+  ]
+}

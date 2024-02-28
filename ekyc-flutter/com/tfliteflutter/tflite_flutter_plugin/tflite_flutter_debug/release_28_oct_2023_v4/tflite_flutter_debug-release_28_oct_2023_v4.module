@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tfliteflutter.tflite_flutter_plugin",
+    "module": "tflite_flutter_debug",
+    "version": "release_28_oct_2023_v4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_debug-release_28_oct_2023_v4.aar",
+          "url": "tflite_flutter_debug-release_28_oct_2023_v4.aar",
+          "size": 4452,
+          "sha512": "3db2f09f4e1d249a02dfdbcc2f93def8a8d041bd35cb7afa7750dd33f748a2d535c36e0a07e04c7e1aa9eb89b6271c4003a8a2ef80945ed78fb8a4090b5314ab",
+          "sha256": "54d7c188ef3134638622d19d60581ee914757674d462d944b9a95fcfd5a4d40b",
+          "sha1": "c3ecf6f5b91da39e969ab41f7a9f0162e9ebbd6b",
+          "md5": "d135edf6f01342dcef44e714811d0265"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_debug-release_28_oct_2023_v4.aar",
+          "url": "tflite_flutter_debug-release_28_oct_2023_v4.aar",
+          "size": 4452,
+          "sha512": "3db2f09f4e1d249a02dfdbcc2f93def8a8d041bd35cb7afa7750dd33f748a2d535c36e0a07e04c7e1aa9eb89b6271c4003a8a2ef80945ed78fb8a4090b5314ab",
+          "sha256": "54d7c188ef3134638622d19d60581ee914757674d462d944b9a95fcfd5a4d40b",
+          "sha1": "c3ecf6f5b91da39e969ab41f7a9f0162e9ebbd6b",
+          "md5": "d135edf6f01342dcef44e714811d0265"
+        }
+      ]
+    }
+  ]
+}

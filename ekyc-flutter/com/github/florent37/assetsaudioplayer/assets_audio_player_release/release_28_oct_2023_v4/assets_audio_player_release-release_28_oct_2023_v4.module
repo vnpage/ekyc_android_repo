@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.florent37.assetsaudioplayer",
+    "module": "assets_audio_player_release",
+    "version": "release_28_oct_2023_v4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "assets_audio_player_release-release_28_oct_2023_v4.aar",
+          "url": "assets_audio_player_release-release_28_oct_2023_v4.aar",
+          "size": 191735,
+          "sha512": "97d27f7036e8d8286b84a13b9a252ce37dd8632a49ab2c255c775b834a576f18692419647447d7cf2a625ed3374e905a1ff98b4b504cd5f3be30de3ce1e67a6f",
+          "sha256": "49b6ea99fdd02b999f2fe81d35dc105f327feb1ecd15e8a01ace8abd84a93e15",
+          "sha1": "10cf1bfd2d856455658bce63dcc52f2db5ec2537",
+          "md5": "6077bc419d7f72ea66cf4838f08fa5c0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "multidex",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-hls",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-dash",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-smoothstreaming",
+          "version": {
+            "requires": "2.17.1"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.13.0"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "assets_audio_player_release-release_28_oct_2023_v4.aar",
+          "url": "assets_audio_player_release-release_28_oct_2023_v4.aar",
+          "size": 191735,
+          "sha512": "97d27f7036e8d8286b84a13b9a252ce37dd8632a49ab2c255c775b834a576f18692419647447d7cf2a625ed3374e905a1ff98b4b504cd5f3be30de3ce1e67a6f",
+          "sha256": "49b6ea99fdd02b999f2fe81d35dc105f327feb1ecd15e8a01ace8abd84a93e15",
+          "sha1": "10cf1bfd2d856455658bce63dcc52f2db5ec2537",
+          "md5": "6077bc419d7f72ea66cf4838f08fa5c0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.ekyc_flutter_sdk",
+    "module": "ekyc_flutter_sdk_debug",
+    "version": "release_28_oct_2023_v4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_debug-release_28_oct_2023_v4.aar",
+          "url": "ekyc_flutter_sdk_debug-release_28_oct_2023_v4.aar",
+          "size": 8146543,
+          "sha512": "0e98411255409980687a30bd5f48ae75de15b5d54175124324670d63ed4bafe23025363ab1c11b86e1f0591f654603dfb4a1106cc96109accc8080f3906f8233",
+          "sha256": "c8c8dcd5a16be668364db48b4ae890b783fda4bbc6e4c7679b82bb6b8757b266",
+          "sha1": "b936454ed5be6207335111320452b567a49c7423",
+          "md5": "804d108963af6ffd5fda456a77822649"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "com.tfliteflutter.tflite_flutter_plugin",
+          "module": "tflite_flutter_debug",
+          "version": {
+            "requires": "release_28_oct_2023_v4"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camera",
+          "module": "camera_debug",
+          "version": {
+            "requires": "release_28_oct_2023_v4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_debug-release_28_oct_2023_v4.aar",
+          "url": "ekyc_flutter_sdk_debug-release_28_oct_2023_v4.aar",
+          "size": 8146543,
+          "sha512": "0e98411255409980687a30bd5f48ae75de15b5d54175124324670d63ed4bafe23025363ab1c11b86e1f0591f654603dfb4a1106cc96109accc8080f3906f8233",
+          "sha256": "c8c8dcd5a16be668364db48b4ae890b783fda4bbc6e4c7679b82bb6b8757b266",
+          "sha1": "b936454ed5be6207335111320452b567a49c7423",
+          "md5": "804d108963af6ffd5fda456a77822649"
+        }
+      ]
+    }
+  ]
+}
