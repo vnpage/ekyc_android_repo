@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.ekyc_flutter_sdk",
+    "module": "ekyc_flutter_sdk_debug",
+    "version": "1.9.19",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_debug-1.9.19.aar",
+          "url": "ekyc_flutter_sdk_debug-1.9.19.aar",
+          "size": 8140969,
+          "sha512": "0c6792e27d504d9a459de6d8b34cf22a1b17f471d273238b52b1621ea5752ac0f747cdb9674b98f62f9d93d6a5202ebd3cdeea1b9aa9dcf37c881c0aa76fc5da",
+          "sha256": "1a180b2093fccca62c2c8b944db6e5d19c926d259743c5c97c2f9c239d6f6c65",
+          "sha1": "47cd8bdeaa88b09b725a187015ef3c16db68ebb9",
+          "md5": "0846c07cfbdf7e310a985017f405ad15"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "com.tfliteflutter.tflite_flutter_plugin",
+          "module": "tflite_flutter_debug",
+          "version": {
+            "requires": "1.9.19"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_debug-1.9.19.aar",
+          "url": "ekyc_flutter_sdk_debug-1.9.19.aar",
+          "size": 8140969,
+          "sha512": "0c6792e27d504d9a459de6d8b34cf22a1b17f471d273238b52b1621ea5752ac0f747cdb9674b98f62f9d93d6a5202ebd3cdeea1b9aa9dcf37c881c0aa76fc5da",
+          "sha256": "1a180b2093fccca62c2c8b944db6e5d19c926d259743c5c97c2f9c239d6f6c65",
+          "sha1": "47cd8bdeaa88b09b725a187015ef3c16db68ebb9",
+          "md5": "0846c07cfbdf7e310a985017f405ad15"
+        }
+      ]
+    }
+  ]
+}
