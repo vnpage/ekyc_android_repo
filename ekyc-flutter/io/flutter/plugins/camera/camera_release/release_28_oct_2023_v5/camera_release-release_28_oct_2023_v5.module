@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.camera",
+    "module": "camera_release",
+    "version": "release_28_oct_2023_v5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_release-release_28_oct_2023_v5.aar",
+          "url": "camera_release-release_28_oct_2023_v5.aar",
+          "size": 104049,
+          "sha512": "d07a013ffa02bf5e729b3da0512f0f00f924cd0167bcd9583d261b8eeda397553fca34de204f8e873bcfd33d0a158e1be162fc2235a19a5c1f4cd2f433c203cb",
+          "sha256": "004428fdbbae47ae085c14fb353c491c0b992150dbe25373716b5b1bb3162e08",
+          "sha1": "df62352c33388ecf94c6db7a4227e10b13e44a4f",
+          "md5": "f9c7c1fd817d79d0e7b9b3b570038ae7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "release_28_oct_2023_v5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_release-release_28_oct_2023_v5.aar",
+          "url": "camera_release-release_28_oct_2023_v5.aar",
+          "size": 104049,
+          "sha512": "d07a013ffa02bf5e729b3da0512f0f00f924cd0167bcd9583d261b8eeda397553fca34de204f8e873bcfd33d0a158e1be162fc2235a19a5c1f4cd2f433c203cb",
+          "sha256": "004428fdbbae47ae085c14fb353c491c0b992150dbe25373716b5b1bb3162e08",
+          "sha1": "df62352c33388ecf94c6db7a4227e10b13e44a4f",
+          "md5": "f9c7c1fd817d79d0e7b9b3b570038ae7"
+        }
+      ]
+    }
+  ]
+}

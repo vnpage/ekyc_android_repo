@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.webviewflutter</groupId>
   <artifactId>webview_flutter_android_debug</artifactId>
   <versioning>
-    <latest>release_28_oct_2023_v4</latest>
-    <release>release_28_oct_2023_v4</release>
+    <latest>release_28_oct_2023_v5</latest>
+    <release>release_28_oct_2023_v5</release>
     <versions>
-      <version>release_28_oct_2023_v4</version>
+      <version>release_28_oct_2023_v5</version>
     </versions>
-    <lastUpdated>20240228075722</lastUpdated>
+    <lastUpdated>20240307064017</lastUpdated>
   </versioning>
 </metadata>
