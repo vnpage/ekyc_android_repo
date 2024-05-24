@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
   <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
   <versioning>
-    <latest>1.9.26</latest>
-    <release>1.9.26</release>
+    <latest>1.9.27-pre</latest>
+    <release>1.9.27-pre</release>
     <versions>
-      <version>1.9.26</version>
+      <version>1.9.27-pre</version>
     </versions>
-    <lastUpdated>20240522043917</lastUpdated>
+    <lastUpdated>20240524025929</lastUpdated>
   </versioning>
 </metadata>
