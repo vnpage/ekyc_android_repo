@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ekyc_ai.ekyc_flutter_sdk",
+    "module": "ekyc_flutter_sdk_release",
+    "version": "1.9.29",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_release-1.9.29.aar",
+          "url": "ekyc_flutter_sdk_release-1.9.29.aar",
+          "size": 8140757,
+          "sha512": "313321e5ad391cd198805ce2a88d83689b0d3e696d3ec227b43a81e7e0cb9d6577265b14533770bb4665ed1a8ad59a48788423f63116d609b727901a7f88da73",
+          "sha256": "aae48add50958b1aff000c53559371ba7c1ac284209398128617de2cfdb9a32f",
+          "sha1": "2fd432fe33e395440bce5bc83d8b853ae0210b76",
+          "md5": "7ac4b89781a5ea3c87204df4e5446ce3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "com.tfliteflutter.tflite_flutter_plugin",
+          "module": "tflite_flutter_release",
+          "version": {
+            "requires": "1.9.29"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ekyc_flutter_sdk_release-1.9.29.aar",
+          "url": "ekyc_flutter_sdk_release-1.9.29.aar",
+          "size": 8140757,
+          "sha512": "313321e5ad391cd198805ce2a88d83689b0d3e696d3ec227b43a81e7e0cb9d6577265b14533770bb4665ed1a8ad59a48788423f63116d609b727901a7f88da73",
+          "sha256": "aae48add50958b1aff000c53559371ba7c1ac284209398128617de2cfdb9a32f",
+          "sha1": "2fd432fe33e395440bce5bc83d8b853ae0210b76",
+          "md5": "7ac4b89781a5ea3c87204df4e5446ce3"
+        }
+      ]
+    }
+  ]
+}
