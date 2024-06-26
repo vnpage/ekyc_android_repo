@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "xyz.luan.audioplayers",
+    "module": "audioplayers_android_debug",
+    "version": "1.9.40",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "audioplayers_android_debug-1.9.40.aar",
+          "url": "audioplayers_android_debug-1.9.40.aar",
+          "size": 61896,
+          "sha512": "874a3a96d21b01dc59ce30501e522996d3d009d20bf38ac68fca4e07ac41b92d7db7fb9bcdbe23708aba53eca7fcb71514fc833aaf139d0bea5e89d44f78e518",
+          "sha256": "5d5cf43479084d582c537838c61cca638734f480cb30916956e34ab4b6f5e292",
+          "sha1": "33d8d43c26ba42f5ba53b21e677ca3919e75c922",
+          "md5": "c480eb2bcf2838625016683717e4b34d"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "audioplayers_android_debug-1.9.40.aar",
+          "url": "audioplayers_android_debug-1.9.40.aar",
+          "size": 61896,
+          "sha512": "874a3a96d21b01dc59ce30501e522996d3d009d20bf38ac68fca4e07ac41b92d7db7fb9bcdbe23708aba53eca7fcb71514fc833aaf139d0bea5e89d44f78e518",
+          "sha256": "5d5cf43479084d582c537838c61cca638734f480cb30916956e34ab4b6f5e292",
+          "sha1": "33d8d43c26ba42f5ba53b21e677ca3919e75c922",
+          "md5": "c480eb2bcf2838625016683717e4b34d"
+        }
+      ]
+    }
+  ]
+}
