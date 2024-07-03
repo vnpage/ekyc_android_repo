@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tfliteflutter.tflite_flutter_plugin",
+    "module": "tflite_flutter_debug",
+    "version": "1.9.42",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_debug-1.9.42.aar",
+          "url": "tflite_flutter_debug-1.9.42.aar",
+          "size": 4537,
+          "sha512": "dfa74b3b343c72c6fb03e78fec76812b3df18776ac7e0f121d541e68f04d1a561cda85e79592ce28753ad7c42c2969fe9d1320a9a83b1275db1746e33a4a313e",
+          "sha256": "a5aaa6e72856aa8077da93b202b874280cb0df13eab84227c7d4a5930934fed4",
+          "sha1": "92d0ec965ff04de36225e6582426f8cb7a5a380b",
+          "md5": "ca4b83400b1d37350411e738250d6361"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tflite_flutter_debug-1.9.42.aar",
+          "url": "tflite_flutter_debug-1.9.42.aar",
+          "size": 4537,
+          "sha512": "dfa74b3b343c72c6fb03e78fec76812b3df18776ac7e0f121d541e68f04d1a561cda85e79592ce28753ad7c42c2969fe9d1320a9a83b1275db1746e33a4a313e",
+          "sha256": "a5aaa6e72856aa8077da93b202b874280cb0df13eab84227c7d4a5930934fed4",
+          "sha1": "92d0ec965ff04de36225e6582426f8cb7a5a380b",
+          "md5": "ca4b83400b1d37350411e738250d6361"
+        }
+      ]
+    }
+  ]
+}
