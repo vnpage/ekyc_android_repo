@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.linkid.flutter_linkid_digitalfootprint",
+    "module": "flutter_linkid_digitalfootprint_release",
+    "version": "1.9.45",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_linkid_digitalfootprint_release-1.9.45.aar",
+          "url": "flutter_linkid_digitalfootprint_release-1.9.45.aar",
+          "size": 5636,
+          "sha512": "237102c022fc6d33291324b8650bb1dac08f850d1f3e48c52a8fe1ba769085bd12d94f6af4e7fd12235735107f0d002efd1cddf7f4a7b1c44c6fa77f0429d922",
+          "sha256": "a405ec50d2d3b1dd335ae6b24f7c4dbe59c3eb37fcf6d052c216b3b9ccf0cb21",
+          "sha1": "572917452a20317d5588521ba82e280cb0de0445",
+          "md5": "8bd8723b4e429bc9c1cf38c39ce40520"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "com.linkid.digitalfootprint",
+          "module": "linkid-digitalfootprint",
+          "version": {
+            "requires": "1.0.34"
+          }
+        },
+        {
+          "group": "fr.bmartel",
+          "module": "jspeedtest",
+          "version": {
+            "requires": "1.32.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_linkid_digitalfootprint_release-1.9.45.aar",
+          "url": "flutter_linkid_digitalfootprint_release-1.9.45.aar",
+          "size": 5636,
+          "sha512": "237102c022fc6d33291324b8650bb1dac08f850d1f3e48c52a8fe1ba769085bd12d94f6af4e7fd12235735107f0d002efd1cddf7f4a7b1c44c6fa77f0429d922",
+          "sha256": "a405ec50d2d3b1dd335ae6b24f7c4dbe59c3eb37fcf6d052c216b3b9ccf0cb21",
+          "sha1": "572917452a20317d5588521ba82e280cb0de0445",
+          "md5": "8bd8723b4e429bc9c1cf38c39ce40520"
+        }
+      ]
+    }
+  ]
+}
