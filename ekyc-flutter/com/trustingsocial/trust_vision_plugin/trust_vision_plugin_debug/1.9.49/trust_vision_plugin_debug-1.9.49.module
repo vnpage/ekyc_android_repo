@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.trustingsocial.trust_vision_plugin",
+    "module": "trust_vision_plugin_debug",
+    "version": "1.9.49",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "trust_vision_plugin_debug-1.9.49.aar",
+          "url": "trust_vision_plugin_debug-1.9.49.aar",
+          "size": 72600,
+          "sha512": "84faeabf2fb1e45be91795643c076c67d018bc05545ee112c981e5cb39892883470da7ee5441c03a75d570cf5c0e72be1f59e0eb90f09df756814ce9f475a735",
+          "sha256": "e84e609d33a89e01ece22d397b20f5245273af602a16b70520eb5905ac8046cc",
+          "sha1": "855b1ced52ed54ba0e3d0f4826875d60e85ebd4e",
+          "md5": "b658f5c99368f303a77a096b298712ac"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "com.trustvision",
+          "module": "tv_sdk",
+          "version": {
+            "requires": "3.1.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "tv_sdk",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "trust_vision_plugin_debug-1.9.49.aar",
+          "url": "trust_vision_plugin_debug-1.9.49.aar",
+          "size": 72600,
+          "sha512": "84faeabf2fb1e45be91795643c076c67d018bc05545ee112c981e5cb39892883470da7ee5441c03a75d570cf5c0e72be1f59e0eb90f09df756814ce9f475a735",
+          "sha256": "e84e609d33a89e01ece22d397b20f5245273af602a16b70520eb5905ac8046cc",
+          "sha1": "855b1ced52ed54ba0e3d0f4826875d60e85ebd4e",
+          "md5": "b658f5c99368f303a77a096b298712ac"
+        }
+      ]
+    }
+  ]
+}
