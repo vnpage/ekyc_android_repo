@@ -35,11 +35,11 @@
         {
           "name": "trust_vision_plugin_release-1.9.56.aar",
           "url": "trust_vision_plugin_release-1.9.56.aar",
-          "size": 77200,
-          "sha512": "51262b5d082ab8173cdcb2db53bb5ef707acc567d7955c3c09b521625d4d603f617002254929d93ee97734335282a658c2743caffa1ad90b14c4f1afa83e9b74",
-          "sha256": "0f6d66e044e5f4eb45992b63ff25d73f5ebabfd6139376d2a32cfd4e3b09b8eb",
-          "sha1": "2d4565c90d949307704fc6a48aa457ddb16bd62d",
-          "md5": "fe58aa99bc930989bca8357362df27ef"
+          "size": 70997,
+          "sha512": "0817317c6c19ac56f707034b01933571ec00ea743487a84962bf6e0a226552917f5996fa663456191630ba20ba4289391c36ec441618cc7ef6d0de77925dd11e",
+          "sha256": "881704218cd8f8fdbe7eb80085cc3a8e3026033cab8606ce02c4dceae1e6d600",
+          "sha1": "85100905760860da9acf0278bec62fcb9641d412",
+          "md5": "399976f362dd11de1343758b5a2d6554"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "com.trustvision",
           "module": "tv_sdk",
           "version": {
-            "requires": "4.0.1.10"
+            "requires": "3.1.3.1"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -85,11 +85,11 @@
         {
           "name": "trust_vision_plugin_release-1.9.56.aar",
           "url": "trust_vision_plugin_release-1.9.56.aar",
-          "size": 77200,
-          "sha512": "51262b5d082ab8173cdcb2db53bb5ef707acc567d7955c3c09b521625d4d603f617002254929d93ee97734335282a658c2743caffa1ad90b14c4f1afa83e9b74",
-          "sha256": "0f6d66e044e5f4eb45992b63ff25d73f5ebabfd6139376d2a32cfd4e3b09b8eb",
-          "sha1": "2d4565c90d949307704fc6a48aa457ddb16bd62d",
-          "md5": "fe58aa99bc930989bca8357362df27ef"
+          "size": 70997,
+          "sha512": "0817317c6c19ac56f707034b01933571ec00ea743487a84962bf6e0a226552917f5996fa663456191630ba20ba4289391c36ec441618cc7ef6d0de77925dd11e",
+          "sha256": "881704218cd8f8fdbe7eb80085cc3a8e3026033cab8606ce02c4dceae1e6d600",
+          "sha1": "85100905760860da9acf0278bec62fcb9641d412",
+          "md5": "399976f362dd11de1343758b5a2d6554"
         }
       ]
     }
