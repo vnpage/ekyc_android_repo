@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.juicy.juicy_score_flutter",
+    "module": "juicy_score_flutter_release",
+    "version": "1.9.61",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "juicy_score_flutter_release-1.9.61.aar",
+          "url": "juicy_score_flutter_release-1.9.61.aar",
+          "size": 8810,
+          "sha512": "e97ae520756cebe88d274853fee332d58059630e2b8b063d003c0ce47ec9b6aa466cf38cba23c19ffdf61dc8c1635014f41a758ca769a900214dbfe3fa03e9d6",
+          "sha256": "51dbe77f979218d0f2b11cbc4bbbfcc975620fb6c5a0dce0b560f4ab0515162b",
+          "sha1": "296d44c30032ea8838f5dfbe0cdeb4d2b130034e",
+          "md5": "830a75e14f9113a4d17bf6b67f66ec1d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "juicy_score_flutter_release-1.9.61.aar",
+          "url": "juicy_score_flutter_release-1.9.61.aar",
+          "size": 8810,
+          "sha512": "e97ae520756cebe88d274853fee332d58059630e2b8b063d003c0ce47ec9b6aa466cf38cba23c19ffdf61dc8c1635014f41a758ca769a900214dbfe3fa03e9d6",
+          "sha256": "51dbe77f979218d0f2b11cbc4bbbfcc975620fb6c5a0dce0b560f4ab0515162b",
+          "sha1": "296d44c30032ea8838f5dfbe0cdeb4d2b130034e",
+          "md5": "830a75e14f9113a4d17bf6b67f66ec1d"
+        }
+      ]
+    }
+  ]
+}
