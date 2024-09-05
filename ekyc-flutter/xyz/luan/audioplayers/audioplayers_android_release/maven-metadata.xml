@@ -3,11 +3,11 @@
   <groupId>xyz.luan.audioplayers</groupId>
   <artifactId>audioplayers_android_release</artifactId>
   <versioning>
-    <latest>1.9.63</latest>
-    <release>1.9.63</release>
+    <latest>1.9.64</latest>
+    <release>1.9.64</release>
     <versions>
-      <version>1.9.63</version>
+      <version>1.9.64</version>
     </versions>
-    <lastUpdated>20240821033702</lastUpdated>
+    <lastUpdated>20240905030538</lastUpdated>
   </versioning>
 </metadata>
