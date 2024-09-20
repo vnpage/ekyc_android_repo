@@ -3,11 +3,11 @@
   <groupId>com.example.ekyc_flutter_sdk</groupId>
   <artifactId>ekyc_flutter_sdk_release</artifactId>
   <versioning>
-    <latest>1.9.65</latest>
-    <release>1.9.65</release>
+    <latest>test_juicy</latest>
+    <release>test_juicy</release>
     <versions>
-      <version>1.9.65</version>
+      <version>test_juicy</version>
     </versions>
-    <lastUpdated>20240905084309</lastUpdated>
+    <lastUpdated>20240920014133</lastUpdated>
   </versioning>
 </metadata>
