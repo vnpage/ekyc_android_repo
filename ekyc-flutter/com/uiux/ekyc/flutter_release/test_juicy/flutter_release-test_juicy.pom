@@ -37,8 +37,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
-      <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
+      <groupId>com.trustingsocial.trust_vision_plugin</groupId>
+      <artifactId>trust_vision_plugin_release</artifactId>
       <version>test_juicy</version>
       <scope>compile</scope>
     </dependency>
@@ -49,50 +49,26 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.urllauncher</groupId>
-      <artifactId>url_launcher_android_release</artifactId>
-      <version>test_juicy</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.pathprovider</groupId>
-      <artifactId>path_provider_android_release</artifactId>
-      <version>test_juicy</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.tfliteflutter.tflite_flutter_plugin</groupId>
-      <artifactId>tflite_flutter_release</artifactId>
-      <version>test_juicy</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.webviewflutter</groupId>
-      <artifactId>webview_flutter_android_release</artifactId>
-      <version>test_juicy</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.trustingsocial.trust_vision_plugin</groupId>
-      <artifactId>trust_vision_plugin_release</artifactId>
-      <version>test_juicy</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>dev.fluttercommunity.plus.share</groupId>
       <artifactId>share_plus_release</artifactId>
       <version>test_juicy</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.camera</groupId>
-      <artifactId>camera_android_release</artifactId>
+      <groupId>io.flutter.plugins.urllauncher</groupId>
+      <artifactId>url_launcher_android_release</artifactId>
       <version>test_juicy</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>dev.fluttercommunity.plus.device_info</groupId>
       <artifactId>device_info_plus_release</artifactId>
+      <version>test_juicy</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.flutter.plugins.pathprovider</groupId>
+      <artifactId>path_provider_android_release</artifactId>
       <version>test_juicy</version>
       <scope>compile</scope>
     </dependency>
@@ -115,8 +91,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.example.ekyc_flutter_sdk</groupId>
-      <artifactId>ekyc_flutter_sdk_release</artifactId>
+      <groupId>io.flutter.plugins.webviewflutter</groupId>
+      <artifactId>webview_flutter_android_release</artifactId>
       <version>test_juicy</version>
       <scope>compile</scope>
     </dependency>

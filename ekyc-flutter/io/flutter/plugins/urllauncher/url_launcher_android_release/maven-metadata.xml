@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.urllauncher</groupId>
   <artifactId>url_launcher_android_release</artifactId>
   <versioning>
-    <latest>1.9.75</latest>
-    <release>1.9.75</release>
+    <latest>test_juicy</latest>
+    <release>test_juicy</release>
     <versions>
-      <version>1.9.75</version>
+      <version>test_juicy</version>
     </versions>
-    <lastUpdated>20240928095920</lastUpdated>
+    <lastUpdated>20241008012803</lastUpdated>
   </versioning>
 </metadata>

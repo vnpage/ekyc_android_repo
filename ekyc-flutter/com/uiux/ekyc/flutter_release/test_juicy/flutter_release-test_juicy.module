@@ -52,8 +52,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -66,41 +66,6 @@
           }
         },
         {
-          "group": "io.flutter.plugins.urllauncher",
-          "module": "url_launcher_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "com.tfliteflutter.tflite_flutter_plugin",
-          "module": "tflite_flutter_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
           "group": "dev.fluttercommunity.plus.share",
           "module": "share_plus_release",
           "version": {
@@ -108,8 +73,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_release",
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -117,6 +82,13 @@
         {
           "group": "dev.fluttercommunity.plus.device_info",
           "module": "device_info_plus_release",
+          "version": {
+            "requires": "test_juicy"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -143,8 +115,8 @@
           }
         },
         {
-          "group": "com.example.ekyc_flutter_sdk",
-          "module": "ekyc_flutter_sdk_release",
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -154,11 +126,11 @@
         {
           "name": "flutter_release-test_juicy.aar",
           "url": "flutter_release-test_juicy.aar",
-          "size": 16495993,
-          "sha512": "7f498c8e5cf4dae99c529c14c9badf95837eaca60be3a5cfa1863eaf2a87ce0016be5e8661ffbf248730a8f65502bf320d2fa7dca11d8ae2bbb0a6a0bc343513",
-          "sha256": "f01b1a4f72c501d0f851b1488c24203edcee29ec22499c04c28119f33946c7dc",
-          "sha1": "8c8e9ea9dd3c5ad900ff1dda1b62ffdae4be1511",
-          "md5": "cd27419b6b0918293291978e6faf1ed7"
+          "size": 12233588,
+          "sha512": "201fc90c82bf0b37f1378cf5b0fd023ff6d0fa57a5fe74a8845fd8590b556c1196237ccf5097c7fae3e6f4830bbedf222053d0b1cc4a8be249cbcf9a9f8b0c71",
+          "sha256": "9ef9d37237448b0382a19c38346aa6876af45156703fc61bf8391f0baa8e8cbb",
+          "sha1": "2f6181a09e2714e72edd39258f8371145787f673",
+          "md5": "de5c8310b5a3feff6899084f93d4bdd1"
         }
       ]
     },
@@ -200,8 +172,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
+          "group": "com.trustingsocial.trust_vision_plugin",
+          "module": "trust_vision_plugin_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -214,41 +186,6 @@
           }
         },
         {
-          "group": "io.flutter.plugins.urllauncher",
-          "module": "url_launcher_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "com.tfliteflutter.tflite_flutter_plugin",
-          "module": "tflite_flutter_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.webviewflutter",
-          "module": "webview_flutter_android_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
-          "group": "com.trustingsocial.trust_vision_plugin",
-          "module": "trust_vision_plugin_release",
-          "version": {
-            "requires": "test_juicy"
-          }
-        },
-        {
           "group": "dev.fluttercommunity.plus.share",
           "module": "share_plus_release",
           "version": {
@@ -256,8 +193,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.camera",
-          "module": "camera_android_release",
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -265,6 +202,13 @@
         {
           "group": "dev.fluttercommunity.plus.device_info",
           "module": "device_info_plus_release",
+          "version": {
+            "requires": "test_juicy"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -291,8 +235,8 @@
           }
         },
         {
-          "group": "com.example.ekyc_flutter_sdk",
-          "module": "ekyc_flutter_sdk_release",
+          "group": "io.flutter.plugins.webviewflutter",
+          "module": "webview_flutter_android_release",
           "version": {
             "requires": "test_juicy"
           }
@@ -302,11 +246,11 @@
         {
           "name": "flutter_release-test_juicy.aar",
           "url": "flutter_release-test_juicy.aar",
-          "size": 16495993,
-          "sha512": "7f498c8e5cf4dae99c529c14c9badf95837eaca60be3a5cfa1863eaf2a87ce0016be5e8661ffbf248730a8f65502bf320d2fa7dca11d8ae2bbb0a6a0bc343513",
-          "sha256": "f01b1a4f72c501d0f851b1488c24203edcee29ec22499c04c28119f33946c7dc",
-          "sha1": "8c8e9ea9dd3c5ad900ff1dda1b62ffdae4be1511",
-          "md5": "cd27419b6b0918293291978e6faf1ed7"
+          "size": 12233588,
+          "sha512": "201fc90c82bf0b37f1378cf5b0fd023ff6d0fa57a5fe74a8845fd8590b556c1196237ccf5097c7fae3e6f4830bbedf222053d0b1cc4a8be249cbcf9a9f8b0c71",
+          "sha256": "9ef9d37237448b0382a19c38346aa6876af45156703fc61bf8391f0baa8e8cbb",
+          "sha1": "2f6181a09e2714e72edd39258f8371145787f673",
+          "md5": "de5c8310b5a3feff6899084f93d4bdd1"
         }
       ]
     }
