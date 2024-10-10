@@ -3,11 +3,11 @@
   <groupId>xyz.luan.audioplayers</groupId>
   <artifactId>audioplayers_android_release</artifactId>
   <versioning>
-    <latest>test_juicy</latest>
-    <release>test_juicy</release>
+    <latest>test_juicy_20241010</latest>
+    <release>test_juicy_20241010</release>
     <versions>
-      <version>test_juicy</version>
+      <version>test_juicy_20241010</version>
     </versions>
-    <lastUpdated>20241009081238</lastUpdated>
+    <lastUpdated>20241010011235</lastUpdated>
   </versioning>
 </metadata>
